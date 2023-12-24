@@ -1,4 +1,4 @@
-Step1- Go to docker playground login with your dockerhub id and password
+Step1- Go to docker playground login with your dockerhub id and password. then create linux instance.
 
 Step2- clone the repository
        command: git clone https://github.com/JanbaskDevops/dockerCompose.git
