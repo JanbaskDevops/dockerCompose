@@ -4,6 +4,6 @@ Step2- clone the repository
        command: git clone https://github.com/JanbaskDevops/dockerCompose.git
 
 Step3- go to dockerCompose folder, and run docker compose up.
-       cd dockerCompose ; docker compose up
+       Commands >> cd dockerCompose ; docker compose up
 
 Step4: Validate your application at port 5000
